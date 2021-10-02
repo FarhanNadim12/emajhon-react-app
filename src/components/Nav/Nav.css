@@ -1,0 +1,15 @@
+.navContainer{
+    background-color: black;
+    line-height: 35px;
+}
+
+.nav a{
+    text-decoration: none;
+    padding: 5px 10px;
+    color: white;
+    font-weight: 700;
+}
+.nav a:hover{
+    background-color: lightgray;
+    color: black;
+}
